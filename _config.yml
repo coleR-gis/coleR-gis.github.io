@@ -16,7 +16,7 @@ description              : &description "Cole's Academic Portfolio"   # Update t
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "coleR-gis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Cole's Portfolio"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UMBC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ri56010@umbc.edu" 
 
   # Academic websites
   academia         : # URL
