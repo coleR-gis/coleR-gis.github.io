@@ -1,6 +1,6 @@
 ---
 title: "Otter Mercury Map"
-excerpt: "Map of river otter habitats and mercury exposure from coal plants. 1<br/><img src='/images/386final.png'>"
+excerpt: "Map of river otter habitats and mercury exposure from coal plants. <br/><img src='/images/386final.png'>"
 collection: portfolio
 ---
 
